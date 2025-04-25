@@ -17,3 +17,5 @@ Traverses tree following binary path Reconstructs original characters calculateB
 Original: 8 bits per character (ASCII) Compressed: Variable-length Huffman codes Shows percentage saved The app demonstrates the greedy nature of Huffman coding by:
 
 Always combining lowest frequency nodes first Assigning shorter codes to frequent characters Building an optimal prefix code tree Achieving efficient compression without loss of data All components update in real-time as the user types, providing immediate visual feedback about the compression process.
+
+App Link: https://huffman-coding-visualizer-l69t.vercel.app/
